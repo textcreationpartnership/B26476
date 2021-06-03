@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Manchesters ioy for Derbies overthrow, or, An exact relation of a famous victory obtained by the Manchester forces against the Lord Strange, Earle of Derby at Warrington in Lancashire, where the said Earle was beaten into a steeple with the losse of many of his men : with a true declaration of what ensued thereupon : published to prevent mis-information.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26476</idno><idno type="EEBO-CITATION">12205887</idno>
+  <idno type="VID">197171</idno>
+  <idno type="EEBO-PROQUEST">2264193975</idno>
+  
+            <idno type="STC">Wing M411</idno>
+            <idno type="OCLC">12205887</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26476)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197171)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 244:E96, no 23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Manchesters ioy for Derbies overthrow, or, An exact relation of a famous victory obtained by the Manchester forces against the Lord Strange, Earle of Derby at Warrington in Lancashire, where the said Earle was beaten into a steeple with the losse of many of his men : with a true declaration of what ensued thereupon : published to prevent mis-information.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Bernard Hayward,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Derby, James Stanley, --  Earl of, 1607-1651.</term>
+               <term type="personal_name">Manchester, Edward Montagu, --  Earl of, 1602-1671.</term>
+               <term type="geographic_name">Warrington (England) --  History --  Siege, 1643.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197171:1"/>
+            <p>Manchesters Ioy, FOR Derbies Overthrow, OR An exact Relation of a Famous victo<g ref="char:EOLhyphen"/>ry obtained by the Manchester Forces, against the Lord STRANGE, Earle of DERBY: At <hi>Warrington</hi> in <hi>Lancashire:</hi> where the said Earle was beaten into a Steeple with the losse of many of his men.</p>
+            <p>With a true Declaration of what ensued thereupon.</p>
+            <p>Published to prevent mis-information.</p>
+            <p>Printed for Bernard Hayward, <add>Aprill .15.</add> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197171:2"/>
+            <pb n="1" facs="tcp:197171:2"/>
+            <head>Manchesters Ioy, FOR Derbies Overthrow, Being an exact Relation of a great vi<g ref="char:EOLhyphen"/>ctory obtained by the Manchesterians, a<g ref="char:EOLhyphen"/>gainst the Earle of DARBY, &amp;c.</head>
+            <p>TIs not unknown to all the Kingdome, that the Manchester men, since the be<g ref="char:EOLhyphen"/>ginning of these distractions, have be<g ref="char:EOLhyphen"/>haved themselves like men, and to their last<g ref="char:EOLhyphen"/>ing fame have expressed themselves worthy Champions for the Gospell of light, Loyall Subjects to his Majesty, in maintaining the
+<pb n="2" facs="tcp:197171:3"/>Lawes of the Kingdome, faithfull servants to the Parliament, in defending their Privi<g ref="char:EOLhyphen"/>ledges, and worthy Heires of Freedome, in seeking to preserve the Liberty of the Sub<g ref="char:EOLhyphen"/>jects of this Land.</p>
+            <p>To give you a touch of some worthy ex<g ref="char:EOLhyphen"/>ployts performed by them.</p>
+            <p>First call to mind how long they were besiedged by the Lord STRANGE, and how by their own vallour (encouraged and inabled by God) &amp; perswaded by the justice of their cause, they removed the Siedge, and forced the said Earl to fly, and leave his Tren<g ref="char:EOLhyphen"/>ches, with the losse of many men.</p>
+            <p>Nor were they sattisfied with their own inlargement, but considering that God had not lent them power and abillity to free and enlarge themselves, but that there was some other end in it, which consideration, pro<g ref="char:EOLhyphen"/>duced a publike consultation, that consul<g ref="char:EOLhyphen"/>tation converted to resolution, resolution prompted them to action, and such actions as were full of Honour, Religion, and Love, they made their freedome, the instrument
+<pb n="3" facs="tcp:197171:3"/>to preserve those that were in danger of sur<g ref="char:EOLhyphen"/>prizall, and to redeeme those that already were surprzed, and all their actions, as farre as in them lay, tended to the security of the peace of that County, of which they were the least considerable part.</p>
+            <p>First they endeavoured to disarme all Pa<g ref="char:EOLhyphen"/>pists, and evil-affected persons, to the end that they might be disabled to disturbe the peace of the said County, by rising them<g ref="char:EOLhyphen"/>selves in rebellion against the King and Par<g ref="char:EOLhyphen"/>liament, or by assisting the said Earl and his confederates, who were actuall disturbers of the peace of that County.</p>
+            <p>Second, they endeavoured to their utmost endeavours to expulse the said Earl and his Forces out of the said County, and to take from him all such Townes, or places of any strength, which he had taken, and to pre<g ref="char:EOLhyphen"/>serve all such other places, as at the present he had not taken, to the end that they might be secured for the service of the King and Parliament.</p>
+            <p>In this Service, they underwent many
+<pb n="4" facs="tcp:197171:4"/>hot Skirmishes, in which (if fame speake truth) the said Earle had no great cause to boast of his great victories, for had he not prevailed by his treacherous Designes, more then by his martiall attempts, I beleeve he had been a strange Lord in those parts before this time.</p>
+            <p>Yet notwithstanding he hath so long e<g ref="char:EOLhyphen"/>scaped that deserved judgement which dogs him at the heels, yet let him and his confe<g ref="char:EOLhyphen"/>derates know, that every minute the Score is inlarged, and the longer the time, the lar<g ref="char:EOLhyphen"/>ger the reckoning, they that clime the moun<g ref="char:EOLhyphen"/>tain of iniquity, must come into the vale of repentance, blood must have blood, the per<g ref="char:EOLhyphen"/>secuters on earth, shall be persecuted else<g ref="char:EOLhyphen"/>where, victory is not chained to his Sword, nor successe to so bloody an abbettor of so base a cause, (as the advancement of ☞) that this is apparent, see the information which that County affoords.</p>
+            <p>It is informed, that after the Manchester-men had routted the town of Wiggen in the County of Lancaster, where there was quar<g ref="char:EOLhyphen"/>tered
+<pb n="5" facs="tcp:197171:4"/>about foureteene hundred of the Earle of Darbies Forces, that Town being the one<g ref="char:EOLhyphen"/>ly place of receipt for Papists Goods &amp; trea<g ref="char:EOLhyphen"/>sure of papists, where they slew many, and tooke about eight hundred prisoners, and 5. hundred more quite routed, and above one thousand Arms, besides Ordnance taken, and treasure, and Goods of papists, to the vallue of twenty thousand pounds.</p>
+            <p>This victory beeing obtained without any considerable prejudice to the Manche<g ref="char:EOLhyphen"/>sterians, in respect of the great victory ob<g ref="char:EOLhyphen"/>tained, they were so fleshed with this, that having rallied their disordered Troops, who were scattered about the Town to refresh themselves, being somewhat weary after so hot a Skirmish, they marched towards War<g ref="char:EOLhyphen"/>rington, a Town of great strength, where some write, the Lord Strange was quartered where beeing arrived, they gave a suddaine, and valliant onset, against the Town, which put the faid Earl and his Forces to such a non-plus, that Maugre their resistance, they were forced into the Church, to secure them<g ref="char:EOLhyphen"/>selves
+<pb n="6" facs="tcp:197171:5"/>where without all question the said Earle is surprized, or slain, for there is in hu<g ref="char:EOLhyphen"/>mane reason, no possibillity for him to escape but either he must yeeld upon quarter, or fight it out against such odds, as death inevi<g ref="char:EOLhyphen"/>table must follow, from either of which pro<g ref="char:EOLhyphen"/>ceeds the suddain peace of that County, and happily of the whole Kingdome, he being one of the greatest incendiaries and distur<g ref="char:EOLhyphen"/>bers of the peace thereof.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:197171:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
